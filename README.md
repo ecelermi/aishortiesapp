@@ -12,5 +12,4 @@ Welcome to the AI Shorties Power App. This Power App is designed to play 5 minut
 4. Share the application with other users.
 
 # Content
-There are two versions of the app available
-- [AI Shorties Application](https://raw.githubusercontent.com/ecelermi/aishortiesapp/main/PowerPlatformShortiesApplication_20240201203312.zip)
+- [AI Shorties Application](https://raw.githubusercontent.com/ecelermi/aishortiesapp/main/PowerPlatformDynamics365Shorties.zip)
